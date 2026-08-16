@@ -1,0 +1,7 @@
+{
+  "name": "Raksha Setu",
+  "description": "Know your police rights in India in under 30 seconds. Multilingual guided decision engine with emergency panic bar, legal document generator, and verified BNSS/BNS/BSA citations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
